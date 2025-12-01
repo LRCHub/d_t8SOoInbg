@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "なんでもないや (movie edit.)",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-01T11:08:23.140174Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "なんでもないや",
+      "artist": "Miyuna",
+      "has_synced": true,
+      "path": "select/01_なんでもないや_Miyuna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "なんでもないや - movie ver.",
+      "artist": "Mitsuko Horie",
+      "has_synced": true,
+      "path": "select/02_なんでもないや_-_movie_ver._Mitsuko_Horie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "なんでもないや (movie ver.) [ORT]",
+      "artist": "Horie, Mitsuko",
+      "has_synced": true,
+      "path": "select/03_なんでもないや_(movie_ver.)_[ORT]_Horie,_Mitsuko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "なんでもないや (movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_なんでもないや_(movie_ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "なんでもないや (movie ver.)",
+      "artist": "Mone Kamishiraishi",
+      "has_synced": true,
+      "path": "select/05_なんでもないや_(movie_ver.)_Mone_Kamishiraishi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "なんでもないや (movie ver.) - Nandemo Naiya",
+      "artist": "Mone Kamishiraishi",
+      "has_synced": true,
+      "path": "select/06_なんでもないや_(movie_ver.)_-_Nandemo_Naiya_Mone_Kamishiraishi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "なんでもないや",
+      "artist": "みゆな",
+      "has_synced": true,
+      "path": "select/07_なんでもないや_みゆな.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "なんでもないや (movie ver.) - Nandemonaiya (Movie Version)",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/08_なんでもないや_(movie_ver.)_-_Nandemonaiya_(Movie_Version)_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "なんでもないや",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/09_なんでもないや_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "なんでもないや (movie edit.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/10_なんでもないや_(movie_edit.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "なんでもないや (movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/11_なんでもないや_(movie_ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "なんでもないや - Nothing (movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/12_なんでもないや_-_Nothing_(movie_ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "なんでもないや",
+      "artist": "みゆはん",
+      "has_synced": false,
+      "path": "select/13_なんでもないや_みゆはん.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "なんでもないや (movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/14_なんでもないや_(movie_ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "なんでもないや (Movie Ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/15_なんでもないや_(Movie_Ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "なんでもないや (Movie Edit)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/16_なんでもないや_(Movie_Edit)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "なんでもないや (Movie Version)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/17_なんでもないや_(Movie_Version)_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なんでもないや (movie edit.)",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_なんでもないや_(movie_edit.)_RADWIMPS.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "なんでもないや (movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_02_なんでもないや_(movie_ver.)_RADWIMPS.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "なんでもないや",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_03_なんでもないや_RADWIMPS.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "なんでもないや (movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_04_なんでもないや_(movie_ver.)_RADWIMPS.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "なんでもないや(movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_05_なんでもないや(movie_ver.)_RADWIMPS.txt"
+    }
+  ]
+}
